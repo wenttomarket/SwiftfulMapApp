@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8EC2132B2D70FECE00EA6CAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EC2132A2D70FECE00EA6CAF /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		8EC2130E2D70FDD000EA6CAF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		8EC212FD2D70FDCF00EA6CAF /* SwiftfulMapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulMapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC2130D2D70FDD000EA6CAF /* SwiftfulMapAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftfulMapAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC213172D70FDD000EA6CAF /* SwiftfulMapAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftfulMapAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EC2132A2D70FECE00EA6CAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				8EC213102D70FDD000EA6CAF /* SwiftfulMapAppTests */,
 				8EC2131A2D70FDD000EA6CAF /* SwiftfulMapAppUITests */,
 				8EC212FE2D70FDCF00EA6CAF /* Products */,
+				8EC2132A2D70FECE00EA6CAF /* Assets.xcassets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EC2132B2D70FECE00EA6CAF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
